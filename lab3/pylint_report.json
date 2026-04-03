@@ -1,0 +1,28 @@
+[
+    {
+        "type": "convention",
+        "module": "decrypt",
+        "obj": "",
+        "line": 1,
+        "column": 0,
+        "endLine": null,
+        "endColumn": null,
+        "path": "decrypt.py",
+        "symbol": "missing-module-docstring",
+        "message": "Missing module docstring",
+        "message-id": "C0114"
+    },
+    {
+        "type": "convention",
+        "module": "decrypt",
+        "obj": "decrypt",
+        "line": 2,
+        "column": 0,
+        "endLine": 2,
+        "endColumn": 11,
+        "path": "decrypt.py",
+        "symbol": "missing-function-docstring",
+        "message": "Missing function or method docstring",
+        "message-id": "C0116"
+    }
+]
